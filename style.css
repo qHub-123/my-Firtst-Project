@@ -5,5 +5,10 @@
 }
 
 section{
-    background-color: red;
+    background-color: greenyellow;
+}
+
+h1{
+    color: blue;
+    background-color: yellow;
 }
